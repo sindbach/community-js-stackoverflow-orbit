@@ -1,6 +1,6 @@
 {
-  "name": "@orbit-love/stackoverflow",
-  "version": "0.3.7",
+  "name": "@sindbach/orbit-love.stackoverflow",
+  "version": "0.0.1",
   "description": "A community project to integrate Stack Overflow interactions into Orbit workspaces",
   "main": "./src/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "GitHub",
-    "url": "https://github.com/orbit-love/community-js-stackoverflow-orbit"
+    "url": "https://github.com/sindbach/community-js-stackoverflow-orbit"
   },
   "author": "Kevin Lewis",
   "keywords": [
